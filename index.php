@@ -4,7 +4,6 @@
 <body>
 
     <h1>INFS7901 - Course List</h1>
-    <h1>INFS7901 - Course List</h1>
 
     <?php 
         // SETUP PHP CONNECTION
