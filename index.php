@@ -7,8 +7,8 @@
 
     <?php 
         // SETUP PHP CONNECTION
-        $servername = "localhost";
-        $username = "root";
+        $servername = "moss.labs.eait.uq.edu.au";
+        $username = "s4481437-s4481437";
         $password = "fc299cc6d9d406bb";
         $dbname = "testdb";
         
